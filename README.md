@@ -2,7 +2,7 @@
 Web Development Using ReactJS
 + Editors 
     + IDE
-        + [Visual Studio COde]https://code.visualstudio.com/()
+        + [Visual Studio COde](https://code.visualstudio.com/)
 + Web Design 
     + Photoshop
 + Web Development
